@@ -48,12 +48,13 @@ img{
      .comments{
         float: left;
         width: 400px;
-        margin-left: 230px;
+        margin-left: 100px;
      }
      #comments-link{
         color: brown;
+        font-size: 34px;
         font-family:fantasy;
-        text-decoration: none;
+        text-decoration: underline;
         font-weight: bold;
     }
     #unity-build-title { 
